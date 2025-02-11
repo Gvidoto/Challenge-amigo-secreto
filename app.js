@@ -7,18 +7,30 @@ function adicionarAmigo() {
 
     if (amigo) { 
         nomes.push(amigo); 
-        let listaAmigos = document.getElementById('listaAmigos');
-        listaAmigos.innerHTML = nomes;
+        atualizarListaAmigos();
         limparCampo();
     } else {
         alert('Por favor, insira um nome.');
     }
 } 
 
-function limparCampo(){
-    amigo = document.getElementById('amigo');
-    amigo.value = '';
+function atualizarListaAmigos() {
+    let listaAmigos = document.getElementById('listaAmigos');
+    listaAmigos.innerHTML = '';
+
+    for (let i = 0; i < nomes.length; i++) {
+        let criarLista = document.createElement('li');
+        criarLista.textContent = nomes[i]; 
+        listaAmigos.appendChild(criarLista); 
+    }
 }
+
+function limparCampo() {
+    let campoAmigo = document.getElementById('amigo');
+    campoAmigo.value = '';
+}
+
+
  
   
         
