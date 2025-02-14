@@ -1,13 +1,16 @@
 <h1 align="center"> :gift:Challenge amigo secreto:gift: </h1>
 
+<p align="center">
+<img src="https://github.com/user-attachments/assets/7b2c6f04-937e-4515-a464-1bc087d94a8e" />
+</p>
 
 <h2> Descrição do projeto </h2>
 Um desafio para estudantes de programação do programa ONE, da Alura em parceria com a ORACLE. O desafio consistiu em criar um programa para adicionar nomes a uma lista e sortear um amigo secreto que está nessa lista!.
 
 
-<h4 align="center"> 
-:construction:  Projeto em construção  :construction:
-</h4>
+<h2 align="center"> 
+:heavy_check_mark:  Projeto finalizado  :heavy_check_mark:
+</h2>
 
 # :hammer: Funcionalidades do projeto
 
