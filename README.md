@@ -18,6 +18,19 @@ Um desafio para estudantes de programação do programa ONE, da Alura em parceri
 - `Funcionalidade 1a`: Sorter um nome aleatório dentro dessa lista.
 - `Funcionalidade 2`: Mostrar o nome sorteado da lista.
 
+## 📁 Acesso ao projeto
+
+Você pode [acessar o projeto](https://challenge-amigo-secreto-git-main-gvidotos-projects.vercel.app/) ou [baixá-lo](https://github.com/user-attachments/files/18806993/challenge-amigo-secreto_pt-main.zip).
+
+## 🛠️ Abrir e rodar o projeto
+
+Após baixar o projeto, você pode abrir com o Visual Studio Code. Para isso, na tela de incial clique em:
+
+- **file** no canto superior esquerdo, e logo em seguida em **open folder**.
+- Procure o local onde o projeto está e o selecione (Caso o projeto seja baixado via zip, é necessário extraí-lo antes de procurá-lo)
+- Por fim clique em OK
+
+
 ## :heavy_check_mark:  Tecnologias utilizadas
 
 - ``JavaScript``
