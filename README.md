@@ -20,7 +20,7 @@ Um desafio para estudantes de programação do programa ONE, da Alura em parceri
 
 ## 📁 Acesso ao projeto
 
-Você pode [acessar o projeto](https://challenge-amigo-secreto-git-main-gvidotos-projects.vercel.app/) ou [baixá-lo](https://github.com/user-attachments/files/18806993/challenge-amigo-secreto_pt-main.zip).
+Você pode [acessar o projeto](https://gvidoto.github.io/Challenge-amigo-secreto/) ou [baixá-lo](https://github.com/user-attachments/files/18806993/challenge-amigo-secreto_pt-main.zip).
 
 ## 🛠️ Abrir e rodar o projeto
 
